@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mason Clark"
   avatar           : "mainheadshot.jpeg"
-  bio              : "PhD Candidate in Ecology and Evolutionary Biology"
-  location         : ""
+  bio              : "PhD in Ecology and Evolutionary Biology"
+  location         : "Texas A&M University"
   employer         :
-  pubmed           : "I'm currently not on pubmed"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #No pubmed#
+  googlescholar    : #Remove for now"
+  email            : "masonclark93@tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,11 +99,11 @@ author:
   github           : "masonclark93"
   google_plus      :
   keybase          :
-  instagram        : "masonclark93"
+  instagram        : #No more instagram#
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "masonkclark"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1911-8776"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
