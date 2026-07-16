@@ -1,36 +1,38 @@
 ---
+layout: about
+title: Home
 permalink: /
-title: "Welcome to Mason Clark's Personal Website"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: Insect physiology · plant-herbivore interactions · molecular biology · gene editing
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Texas A&amp;M University</p>
+
+selected_papers: false
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
-# WEBSITE UNDER CONSTRUCTION
+I am a scientist interested in how insect herbivores acquire, transform, and use dietary molecules. I use molecular biology and gene-editing approaches to study the physiology of plant-herbivore interactions.
 
-The design and content of my website is an ongoing project. More to come soon!
+## Research background
 
-# Professional Biography
+I completed my B.S. at the SUNY College of Environmental Science and Forestry in 2016. My first research experience examined the population ecology and conservation of the endangered plant *Rhodiola integrifolia* subsp. *leedyi*. I later worked in medical genetics at The Ohio State University, studying genome evolution and reproduction in *Candida albicans*, followed by research and laboratory-management work in plant pathology and entomology at Cornell University.
 
-## Research Background
-I completed my B.S. from SUNY College of Environmental Science and Forestry in Syracuse, NY, in 2016. My first research experience was during my undergraduate as a research technician for a master's student studying population ecology and conservation of an endangered plant species *Rhodiola integrifolia* subsp. *leedyi*. However, I became increasingly interested in genetics and cell biology during my undergraduate studies and wanted to find more research experience in that field. I moved to Columbus, OH., shortly after graduation where I worked as a lab manager and the first personnel of a new medical genetics lab that focused on genome evolution and reproduction in *Candida albicans* at The Ohio State University. As a lab manager, I provided technical support for projects investigating the function of conserved meiotic genes in the unusual parameiotic reproduction of this yeast and, seperately, expansion of the TLO gene family known to contribute to *C. albicans*' pathogenesis. This was then followed by two years of research technician and lab managerial work in Plant Pathology and Entomology at Cornell University.
+## Doctoral research
 
-## PhD Studies
-I began my PhD in Ecology and Evolutionary Biology at Texas A&M University in 2019 co-advised by Drs. Greg Sword and Spencer Behmer. My PhD research centered on the majestic biomolecule cholesterol and its function in insect herbivore physiology. Arthropods, which includes insects, are among several major animal phyla that are sterol auxotrophs, requiring dietary sources of sterols - namely cholesterol. Insect herbivores, comprising ~50% of all insect species and includes most invertebrate agricultural pests, feed on plant tissues that are rich in phytosterols (C24 alkylated sterols unlike cholesterol) 
+I began my Ph.D. in Ecology and Evolutionary Biology at Texas A&amp;M University in 2019, co-advised by Drs. Greg Sword and Spencer Behmer. My doctoral research centered on cholesterol and its role in insect-herbivore physiology. Arthropods are sterol auxotrophs and must obtain sterols from their diets, yet herbivorous insects feed on plant tissues dominated by phytosterols rather than cholesterol. This creates a useful system for studying the molecular and physiological mechanisms that connect diet, metabolism, and animal performance.
 
-## Post-doctoral Studies
-
-## General Research Interests
-
-
-
-# Making your own academic website is easy and free
-
-## Using Github Pages to make your own free website.
-
-It turns out that hosting your own website is very easy to do, and there are tons of templates out there to help you get started. I'm using the [academicpages template](https://github.com/academicpages/academicpages.github.io), which is a Jekyll-based template that's very user friendly. You can fork [the repository](https://github.com/academicpages)to your own [Github page](https://github.com) and start building your personal and academic website right away. 
-
-
-
+This website is being rebuilt. Publications, talks, grants, and an expanded research overview will be added as their records are assembled and verified.

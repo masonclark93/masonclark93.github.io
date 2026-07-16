@@ -1,59 +1,21 @@
 ---
-layout: archive
-title: "CV"
+layout: page
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: CV
+description: Education, research experience, publications, presentations, and service.
+nav: true
+nav_order: 6
 ---
 
-{% include base_path %}
+An updated curriculum vitae will be added after the underlying records have been reviewed for accuracy.
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Ph.D., Ecology and Evolutionary Biology**, Texas A&M University
+- **B.S.**, SUNY College of Environmental Science and Forestry, 2016
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research appointments
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Research and laboratory-management roles in plant pathology and entomology, Cornell University
+- Laboratory manager and research staff member in medical genetics, The Ohio State University
+

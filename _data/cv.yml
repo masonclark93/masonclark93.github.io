@@ -1,0 +1,22 @@
+cv:
+  name: Mason K. Clark
+  label: Scientist
+  email: masonclark93@tamu.edu
+  location: Texas
+  summary: >
+    Scientist studying insect physiology, plant-herbivore interactions,
+    molecular biology, and gene editing.
+  social_networks:
+    - network: GitHub
+      username: masonclark93
+    - network: LinkedIn
+      username: masonkclark
+  sections:
+    Education:
+      - institution: Texas A&M University
+        area: Ecology and Evolutionary Biology
+        studyType: Ph.D.
+        start_date: 2019
+      - institution: SUNY College of Environmental Science and Forestry
+        studyType: B.S.
+        end_date: 2016
